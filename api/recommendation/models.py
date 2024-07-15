@@ -7,3 +7,4 @@ class RecommendationRequest(BaseModel):
     gender: str
     domicile_of_tripura: str
     num_recommendations: int = 5
+
